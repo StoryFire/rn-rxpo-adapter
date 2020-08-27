@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./library/libs/expocore.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/544108affff4040dfafe632a1df00927/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/544108affff4040dfafe632a1df00927/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/544108affff4040dfafe632a1df00927/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

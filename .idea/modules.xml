@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="rn-expo-adapter/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" group="rn-expo-adapter/library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rn-expo-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/rn-expo-adapter.iml" group="rn-expo-adapter" />
+      <module fileurl="file://$PROJECT_DIR$/rn-netinfo.iml" filepath="$PROJECT_DIR$/rn-netinfo.iml" />
+    </modules>
+  </component>
+</project>
